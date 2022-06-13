@@ -1,2 +1,2 @@
 # gmiak.info
-Project website
+Project Website
